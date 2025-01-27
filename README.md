@@ -57,4 +57,8 @@ Contributions to improve or enhance this demo are highly appreciated. Feel free 
 
 For issues or queries, please open an issue in this repository with a clear description of your concern.
 
+https://medium.com/@kimaswaemma36/mediasoup-essentials-creating-robust-webrtc-applications-a6c2ca4aafd1
+
 Enjoy your journey with the Media Soup Learning Demo!
+
+
